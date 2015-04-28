@@ -1,0 +1,3 @@
+%{"conform": {:hex, :conform, "0.13.0"},
+  "exrm": {:hex, :exrm, "0.15.3"},
+  "leds": {:git, "git://github.com/cellulose/leds.git", "44c42e7b3db613e382c9b01426a502c56afac161", []}}

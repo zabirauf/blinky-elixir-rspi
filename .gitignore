@@ -1,0 +1,8 @@
+/_build
+/deps
+erl_crash.dump
+*.ez
+_images
+/rel
+/rel/relx.config
+/rel/vm.args
